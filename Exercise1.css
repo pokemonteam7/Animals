@@ -1,0 +1,16 @@
+body {
+  background : blue;
+}
+
+div {
+  border : solid black 1px;
+  background : white
+}
+
+#mySecondDiv { 
+  background: yellow;
+}
+
+#joe {
+  background : red
+}
